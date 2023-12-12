@@ -1,4 +1,0 @@
-/Users/trav/Documents/TeslaRoboticsPrep/RoboArm/CMakeFiles/ImGuizmo.dir
-/Users/trav/Documents/TeslaRoboticsPrep/RoboArm/CMakeFiles/roboArm.dir
-/Users/trav/Documents/TeslaRoboticsPrep/RoboArm/CMakeFiles/edit_cache.dir
-/Users/trav/Documents/TeslaRoboticsPrep/RoboArm/CMakeFiles/rebuild_cache.dir
