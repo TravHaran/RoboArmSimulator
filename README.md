@@ -1,4 +1,6 @@
 # RoboArmSimulator
+![demo](https://github.com/user-attachments/assets/a0865d9e-ba09-4849-ae3e-ff083c53d72d)
+
 Robotic Arm Simulator built with C++, OpenGl, ImGUI, and GLFW
 
 OpenGL: 3D rendering
